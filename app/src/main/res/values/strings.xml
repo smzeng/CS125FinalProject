@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title_page_art">Title page art</string>
+    <string name="enter_task">enter task</string>
+    <string name="school">School</string>
+    <string name="add_list">Add List</string>
+    <string name="groceries">GROCERIES</string>
+    <string name="shopping">SHOPPING</string>
+    <string name="lists">LiStS</string>
+    <string name="name_of_task">Name of Task:</string>
+    <string name="add_task">aDd TaSk</string>
+    <string name="save_task">SAVE TASK</string>
+    <string name="pen_picture">pen picture</string>
+    <string name="add_list_title">aDd LiSt</string>
+    <string name="tap_to_save_list">tap to save list</string>
+    <string name="button">Button</string>
+    <string name="name_of_list">Name of list:</string>
+    <string name="enter_list_name">enter list name</string>
+    <string name="add_list_title_image">add list title image</string>
+    <string name="piece_of_paper_string_title_page_art">piece of paper @string/title_page_art</string>
+    <string name="finish_app_ui">finish app ui</string>
+    <string name="study_for_finals">Study for finals</string>
+    <string name="math_homework">Math Homework</string>
+    <string name="schoolTitle">SCHOOL</string>
+    <string name="checkbox1">CheckBox</string>
+    <string name="checkbox2">CheckBox</string>
+    <string name="checkbox3">CheckBox</string>
+    <string name="add_task_button">Add Task</string>
+</resources>
