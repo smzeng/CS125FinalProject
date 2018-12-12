@@ -13,11 +13,12 @@ public class TitlePage extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_title_page);
 
+        //button that transfers you to the first page of the app
         final Button button = findViewById(R.id.startButton);
         button.setOnClickListener(new View.OnClickListener() {
         @Override
         public void onClick(final View view) {
-            Intent i = new Intent(TitlePage.this, MainActivity.class);
+            Intent i = new Intent(TitlePage.this, CategoryActivity.class);
             startActivity(i);
         }
     });

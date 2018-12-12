@@ -17,9 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".CategoryActivity" />
-        <activity android:name=".MainActivity" />
-        <activity android:name=".AddTask" />
-        <activity android:name=".addList"></activity>
+        <activity android:name=".gif"></activity>
     </application>
 
 </manifest>
